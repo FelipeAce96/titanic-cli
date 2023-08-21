@@ -1,6 +1,6 @@
 # Titanic-CLI: Titanic - Machine Learning from Disaster 🚢
 
-![Titanic](https://giphy.com/embed/cnKpyN8fQ7GyrUF6j9)
+![Titanic](./giphy.gif)
 
 This repository contains my approach to the Titanic: Machine Learning from Disaster competition on Kaggle. The goal of this competition is to predict which passengers survived the Titanic shipwreck using machine learning techniques. This README provides an overview of the competition, the contents of this repository, and how to get started.
 
