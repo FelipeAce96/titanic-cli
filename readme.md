@@ -42,14 +42,15 @@ To get started with this repository:
 
 4. Use the CLI interface and his diferrents commands:
 
+* To make predictions:
    ```bash (predictions)
    python cli.py predict --test-data-path {your_test_path} --model-option {logistic | random_forest | xgboost}
    ```
-
+* To train only one model:
    ```bash (Train one of the models)
    python cli.py train --data-path {your_training_path} --model-option {logistic | random_forest | xgboost}
    ```
-
+* To train all the models:
    ```bash (Train all the models)
    python cli.py train-all-models --data-path {your_training_path}
    ```
