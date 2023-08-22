@@ -55,7 +55,7 @@ To get started with this repository:
    python cli.py train-all-models --data-path {your_training_path}
    ```
 
-5. You can rome some test using the following commands:
+5. You can run some tests using the following commands:
 
    ```bash
    coverage run -m pytest test_cli.py
