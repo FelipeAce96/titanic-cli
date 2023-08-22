@@ -25,10 +25,16 @@ This repository contains the following files and directories:
 
 ## Getting Started
 
-To get started with this repository and work on the Titanic competition:
+To get started with this repository:
 
-1. Clone this repository to your local machine.
-2. Set up a virtual environment (optional but recommended).
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/FelipeAce96/titanic-cli
+   cd titanic-cli
+   ```
+2. Set up a virtual environment (recommended).
+
 3. Install the required dependencies. You can do this using `pip`:
 
    ```bash
